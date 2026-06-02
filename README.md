@@ -65,8 +65,7 @@ The eGFR result is displayed in mL/min/1.73m².
 | < 15 | G5 — Kidney failure |
 
 ## Reference
-
-> Pottel H, et al. *The European Kidney Function Consortium (EKFC) equation.* NEJM 2021; 385:1737–1749. DOI: [10.1056/NEJMoa2102483](https://doi.org/10.1056/NEJMoa2102483)
+https://pipette.sulm.ch/files/pipette/2020-06/pipette_6-2020-004_Lorenz-Risch_EKFC-Gleichung-zur-Schaetzung-der-Nierenfuntion.pdf
 
 ## Disclaimer
 
