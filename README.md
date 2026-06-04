@@ -1,4 +1,4 @@
-# EKFC GFR Calculator
+# EKFC eGFR Calculator
 
 A desktop application for estimating kidney function using the **European Kidney Function Consortium (EKFC)** equation. Built with Python and Tkinter.
 
